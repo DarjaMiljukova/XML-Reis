@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Reisid>
-	<Reis reisID="1" Aeg="22:37" Hind="€4453,25">
+	<Reis reisID="1" Aeg="22:37" Hind="4453">
 		<Kuupaevad>
 			<Alguskuupaev>2023-12-30</Alguskuupaev>
 			<Loppkuupaev>2024-08-26</Loppkuupaev>
@@ -13,7 +13,7 @@
 			<Lennujaam>Metz-Nancy-Lorraine Airport</Lennujaam>
 		</Transport>
 	</Reis>
-	<Reis reisID="2" Aeg="23:27" Hind="€7096,85">
+	<Reis reisID="2" Aeg="23:27" Hind="7096">
 		<Kuupaevad>
 			<Alguskuupaev>2023-09-17</Alguskuupaev>
 			<Loppkuupaev>2024-05-11</Loppkuupaev>
@@ -26,7 +26,7 @@
 			<Lennujaam>Alferez Armando Rodriguez Airport</Lennujaam>
 		</Transport>
 	</Reis>
-	<Reis reisID="3" Aeg="7:02" Hind="€6497,23">
+	<Reis reisID="3" Aeg="7:02" Hind="6497">
 		<Kuupaevad>
 			<Alguskuupaev>2024-01-21</Alguskuupaev>
 			<Loppkuupaev>2024-02-08</Loppkuupaev>
@@ -39,7 +39,7 @@
 			<Lennujaam>Warraber Island Airport</Lennujaam>
 		</Transport>
 	</Reis>
-	<Reis reisID="4" Aeg="22:37" Hind="€4476,99">
+	<Reis reisID="4" Aeg="22:37" Hind="4476">
 		<Kuupaevad>
 			<Alguskuupaev>2024-03-11</Alguskuupaev>
 			<Loppkuupaev>2023-09-21</Loppkuupaev>
@@ -52,7 +52,7 @@
 			<Lennujaam>Bongor Airport</Lennujaam>
 		</Transport>
 	</Reis>
-	<Reis reisID="5" Aeg="7:05" Hind="€4134,82">
+	<Reis reisID="5" Aeg="7:05" Hind="4134">
 		<Kuupaevad>
 			<Alguskuupaev>2024-01-08</Alguskuupaev>
 			<Loppkuupaev>2023-10-29</Loppkuupaev>
@@ -65,7 +65,7 @@
 			<Lennujaam>Inishmaan Aerodrome</Lennujaam>
 		</Transport>
 	</Reis>
-	<Reis reisID="6" Aeg="18:37" Hind="€8671,31">
+	<Reis reisID="6" Aeg="18:37" Hind="8671">
 		<Kuupaevad>
 			<Alguskuupaev>2023-11-12</Alguskuupaev>
 			<Loppkuupaev>2024-08-30</Loppkuupaev>
@@ -78,7 +78,7 @@
 			<Lennujaam>Ewo Airport</Lennujaam>
 		</Transport>
 	</Reis>
-	<Reis reisID="7" Aeg="14:55" Hind="€8675,51">
+	<Reis reisID="7" Aeg="14:55" Hind="8675">
 		<Kuupaevad>
 			<Alguskuupaev>2023-12-18</Alguskuupaev>
 			<Loppkuupaev>2024-06-24</Loppkuupaev>
@@ -91,7 +91,7 @@
 			<Lennujaam>Sulaco Airport</Lennujaam>
 		</Transport>
 	</Reis>
-	<Reis reisID="8" Aeg="8:11" Hind="€7084,23">
+	<Reis reisID="8" Aeg="8:11" Hind="7084">
 		<Kuupaevad>
 			<Alguskuupaev>2024-08-09</Alguskuupaev>
 			<Loppkuupaev>2024-01-28</Loppkuupaev>
@@ -104,7 +104,7 @@
 			<Lennujaam>Zagreb Airport</Lennujaam>
 		</Transport>
 	</Reis>
-	<Reis reisID="9" Aeg="23:24" Hind="€4370,22">
+	<Reis reisID="9" Aeg="23:24" Hind="4370">
 		<Kuupaevad>
 			<Alguskuupaev>2024-07-31</Alguskuupaev>
 			<Loppkuupaev>2023-11-21</Loppkuupaev>
@@ -117,7 +117,7 @@
 			<Lennujaam>Tandag Airport</Lennujaam>
 		</Transport>
 	</Reis>
-	<Reis reisID="10" Aeg="11:56" Hind="€3929,74">
+	<Reis reisID="10" Aeg="11:56" Hind="3929">
 		<Kuupaevad>
 			<Alguskuupaev>2024-08-25</Alguskuupaev>
 			<Loppkuupaev>2023-12-16</Loppkuupaev>
@@ -130,7 +130,7 @@
 			<Lennujaam>Southern Wisconsin Regional Airport</Lennujaam>
 		</Transport>
 	</Reis>
-	<Reis reisID="11" Aeg="18:07" Hind="€1998,19">
+	<Reis reisID="11" Aeg="18:07" Hind="1998">
 		<Kuupaevad>
 			<Alguskuupaev>2024-07-27</Alguskuupaev>
 			<Loppkuupaev>2024-07-12</Loppkuupaev>
@@ -143,7 +143,7 @@
 			<Lennujaam>Granville Airport</Lennujaam>
 		</Transport>
 	</Reis>
-	<Reis reisID="12" Aeg="23:10" Hind="€9418,41">
+	<Reis reisID="12" Aeg="23:10" Hind="9418">
 		<Kuupaevad>
 			<Alguskuupaev>2023-10-29</Alguskuupaev>
 			<Loppkuupaev>2023-11-23</Loppkuupaev>
@@ -156,7 +156,7 @@
 			<Lennujaam>Eirunepé Airport</Lennujaam>
 		</Transport>
 	</Reis>
-	<Reis reisID="13" Aeg="20:15" Hind="€3609,86">
+	<Reis reisID="13" Aeg="20:15" Hind="3609">
 		<Kuupaevad>
 			<Alguskuupaev>2024-06-20</Alguskuupaev>
 			<Loppkuupaev>2024-07-18</Loppkuupaev>
@@ -169,7 +169,7 @@
 			<Lennujaam>Letterkenny Airport</Lennujaam>
 		</Transport>
 	</Reis>
-	<Reis reisID="14" Aeg="2:57" Hind="€1827,44">
+	<Reis reisID="14" Aeg="2:57" Hind="1827">
 		<Kuupaevad>
 			<Alguskuupaev>2023-09-22</Alguskuupaev>
 			<Loppkuupaev>2024-01-10</Loppkuupaev>
@@ -182,7 +182,7 @@
 			<Lennujaam>Derby Airport</Lennujaam>
 		</Transport>
 	</Reis>
-	<Reis reisID="15" Aeg="20:29" Hind="€4632,27">
+	<Reis reisID="15" Aeg="20:29" Hind="4632">
 		<Kuupaevad>
 			<Alguskuupaev>2024-01-29</Alguskuupaev>
 			<Loppkuupaev>2024-04-30</Loppkuupaev>
@@ -195,7 +195,7 @@
 			<Lennujaam>Dhangarhi Airport</Lennujaam>
 		</Transport>
 	</Reis>
-	<Reis reisID="16" Aeg="19:21" Hind="€2172,47">
+	<Reis reisID="16" Aeg="19:21" Hind="2172">
 		<Kuupaevad>
 			<Alguskuupaev>2024-03-04</Alguskuupaev>
 			<Loppkuupaev>2023-10-16</Loppkuupaev>
@@ -208,7 +208,7 @@
 			<Lennujaam>Sesheke Airport</Lennujaam>
 		</Transport>
 	</Reis>
-	<Reis reisID="17" Aeg="9:07" Hind="€7048,32">
+	<Reis reisID="17" Aeg="9:07" Hind="7048">
 		<Kuupaevad>
 			<Alguskuupaev>2023-10-28</Alguskuupaev>
 			<Loppkuupaev>2024-04-25</Loppkuupaev>
@@ -221,7 +221,7 @@
 			<Lennujaam>Ceres Airport</Lennujaam>
 		</Transport>
 	</Reis>
-	<Reis reisID="18" Aeg="16:44" Hind="€8821,82">
+	<Reis reisID="18" Aeg="16:44" Hind="8821">
 		<Kuupaevad>
 			<Alguskuupaev>2024-06-30</Alguskuupaev>
 			<Loppkuupaev>2024-03-17</Loppkuupaev>
@@ -234,7 +234,7 @@
 			<Lennujaam>Francisco Beltrão Airport</Lennujaam>
 		</Transport>
 	</Reis>
-	<Reis reisID="19" Aeg="19:28" Hind="€7037,02">
+	<Reis reisID="19" Aeg="19:28" Hind="7037">
 		<Kuupaevad>
 			<Alguskuupaev>2024-03-24</Alguskuupaev>
 			<Loppkuupaev>2023-09-18</Loppkuupaev>
@@ -247,7 +247,7 @@
 			<Lennujaam>Tyndall Air Force Base</Lennujaam>
 		</Transport>
 	</Reis>
-	<Reis reisID="21" Aeg="18:42" Hind="€1180,79">
+	<Reis reisID="21" Aeg="18:42" Hind="1180">
 		<Kuupaevad>
 			<Alguskuupaev>2024-02-26</Alguskuupaev>
 			<Loppkuupaev>2024-05-26</Loppkuupaev>
@@ -260,7 +260,7 @@
 			<Lennujaam>Lolland Falster Maribo Airport</Lennujaam>
 		</Transport>
 	</Reis>
-	<Reis reisID="22" Aeg="16:06" Hind="€2643,13">
+	<Reis reisID="22" Aeg="16:06" Hind="2643">
 		<Kuupaevad>
 			<Alguskuupaev>2023-11-23</Alguskuupaev>
 			<Loppkuupaev>2024-05-26</Loppkuupaev>
@@ -273,7 +273,7 @@
 			<Lennujaam>Arenal Airport</Lennujaam>
 		</Transport>
 	</Reis>
-	<Reis reisID="23" Aeg="15:43" Hind="€797,27">
+	<Reis reisID="23" Aeg="15:43" Hind="797">
 		<Kuupaevad>
 			<Alguskuupaev>2024-02-02</Alguskuupaev>
 			<Loppkuupaev>2024-08-22</Loppkuupaev>
@@ -286,7 +286,7 @@
 			<Lennujaam>Berlin Regional Airport</Lennujaam>
 		</Transport>
 	</Reis>
-	<Reis reisID="24" Aeg="4:47" Hind="€7926,95">
+	<Reis reisID="24" Aeg="4:47" Hind="7926">
 		<Kuupaevad>
 			<Alguskuupaev>2024-04-20</Alguskuupaev>
 			<Loppkuupaev>2023-12-04</Loppkuupaev>
@@ -299,7 +299,7 @@
 			<Lennujaam>Staniel Cay Airport</Lennujaam>
 		</Transport>
 	</Reis>
-	<Reis reisID="25" Aeg="4:16" Hind="€8958,72">
+	<Reis reisID="25" Aeg="4:16" Hind="8958">
 		<Kuupaevad>
 			<Alguskuupaev>2024-08-22</Alguskuupaev>
 			<Loppkuupaev>2024-09-09</Loppkuupaev>
@@ -312,7 +312,7 @@
 			<Lennujaam>LBJ Ranch Airport</Lennujaam>
 		</Transport>
 	</Reis>
-	<Reis reisID="26" Aeg="7:11" Hind="€9648,06">
+	<Reis reisID="26" Aeg="7:11" Hind="9648">
 		<Kuupaevad>
 			<Alguskuupaev>2024-04-10</Alguskuupaev>
 			<Loppkuupaev>2023-09-12</Loppkuupaev>
@@ -325,7 +325,7 @@
 			<Lennujaam>Innisfail Airport</Lennujaam>
 		</Transport>
 	</Reis>
-	<Reis reisID="27" Aeg="23:58" Hind="€9192,29">
+	<Reis reisID="27" Aeg="23:58" Hind="9192">
 		<Kuupaevad>
 			<Alguskuupaev>2023-10-26</Alguskuupaev>
 			<Loppkuupaev>2024-05-08</Loppkuupaev>
@@ -338,7 +338,7 @@
 			<Lennujaam>Orchid Beach Airport</Lennujaam>
 		</Transport>
 	</Reis>
-	<Reis reisID="28" Aeg="18:48" Hind="€5224,37">
+	<Reis reisID="28" Aeg="18:48" Hind="5224">
 		<Kuupaevad>
 			<Alguskuupaev>2023-10-15</Alguskuupaev>
 			<Loppkuupaev>2023-12-14</Loppkuupaev>
@@ -351,7 +351,7 @@
 			<Lennujaam>Erldunda Airport</Lennujaam>
 		</Transport>
 	</Reis>
-	<Reis reisID="29" Aeg="9:48" Hind="€1452,91">
+	<Reis reisID="29" Aeg="9:48" Hind="1452">
 		<Kuupaevad>
 			<Alguskuupaev>2024-08-24</Alguskuupaev>
 			<Loppkuupaev>2023-10-20</Loppkuupaev>
@@ -364,7 +364,7 @@
 			<Lennujaam>Giyani Airport</Lennujaam>
 		</Transport>
 	</Reis>
-	<Reis reisID="30" Aeg="16:05" Hind="€7173,90">
+	<Reis reisID="30" Aeg="16:05" Hind="7173">
 		<Kuupaevad>
 			<Alguskuupaev>2023-10-27</Alguskuupaev>
 			<Loppkuupaev>2023-11-30</Loppkuupaev>
