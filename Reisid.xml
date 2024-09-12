@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Reisid>
+	<Reis reisID="1" Aeg="22:37" Hind="€4453,25">
+		<Kuupaevad>
+			<Alguskuupaev>2023-12-30</Alguskuupaev>
+			<Loppkuupaev>2024-08-26</Loppkuupaev>
+		</Kuupaevad>
+		<Sihtkoht>
+			<Riik>Costa Rica</Riik>
+			<Linn>Turrialba</Linn>
+		</Sihtkoht>
+		<Transport>
+			<Lennujaam>Metz-Nancy-Lorraine Airport</Lennujaam>
+		</Transport>
+	</Reis>
+	<Reis reisID="2" Aeg="23:27" Hind="€7096,85">
+		<Kuupaevad>
+			<Alguskuupaev>2023-09-17</Alguskuupaev>
+			<Loppkuupaev>2024-05-11</Loppkuupaev>
+		</Kuupaevad>
+		<Sihtkoht>
+			<Riik>China</Riik>
+			<Linn>Tongxing</Linn>
+		</Sihtkoht>
+		<Transport>
+			<Lennujaam>Alferez Armando Rodriguez Airport</Lennujaam>
+		</Transport>
+	</Reis>
+	<Reis reisID="3" Aeg="7:02" Hind="€6497,23">
+		<Kuupaevad>
+			<Alguskuupaev>2024-01-21</Alguskuupaev>
+			<Loppkuupaev>2024-02-08</Loppkuupaev>
+		</Kuupaevad>
+		<Sihtkoht>
+			<Riik>China</Riik>
+			<Linn>Lühua</Linn>
+		</Sihtkoht>
+		<Transport>
+			<Lennujaam>Warraber Island Airport</Lennujaam>
+		</Transport>
+	</Reis>
+	<Reis reisID="4" Aeg="22:37" Hind="€4476,99">
+		<Kuupaevad>
+			<Alguskuupaev>2024-03-11</Alguskuupaev>
+			<Loppkuupaev>2023-09-21</Loppkuupaev>
+		</Kuupaevad>
+		<Sihtkoht>
+			<Riik>Czech Republic</Riik>
+			<Linn>Chlumcany</Linn>
+		</Sihtkoht>
+		<Transport>
+			<Lennujaam>Bongor Airport</Lennujaam>
+		</Transport>
+	</Reis>
+	<Reis reisID="5" Aeg="7:05" Hind="€4134,82">
+		<Kuupaevad>
+			<Alguskuupaev>2024-01-08</Alguskuupaev>
+			<Loppkuupaev>2023-10-29</Loppkuupaev>
+		</Kuupaevad>
+		<Sihtkoht>
+			<Riik>China</Riik>
+			<Linn>Laixi</Linn>
+		</Sihtkoht>
+		<Transport>
+			<Lennujaam>Inishmaan Aerodrome</Lennujaam>
+		</Transport>
+	</Reis>
+	<Reis reisID="6" Aeg="18:37" Hind="€8671,31">
+		<Kuupaevad>
+			<Alguskuupaev>2023-11-12</Alguskuupaev>
+			<Loppkuupaev>2024-08-30</Loppkuupaev>
+		</Kuupaevad>
+		<Sihtkoht>
+			<Riik>Libya</Riik>
+			<Linn>Sirte</Linn>
+		</Sihtkoht>
+		<Transport>
+			<Lennujaam>Ewo Airport</Lennujaam>
+		</Transport>
+	</Reis>
+	<Reis reisID="7" Aeg="14:55" Hind="€8675,51">
+		<Kuupaevad>
+			<Alguskuupaev>2023-12-18</Alguskuupaev>
+			<Loppkuupaev>2024-06-24</Loppkuupaev>
+		</Kuupaevad>
+		<Sihtkoht>
+			<Riik>Argentina</Riik>
+			<Linn>General José de San Martín</Linn>
+		</Sihtkoht>
+		<Transport>
+			<Lennujaam>Sulaco Airport</Lennujaam>
+		</Transport>
+	</Reis>
+	<Reis reisID="8" Aeg="8:11" Hind="€7084,23">
+		<Kuupaevad>
+			<Alguskuupaev>2024-08-09</Alguskuupaev>
+			<Loppkuupaev>2024-01-28</Loppkuupaev>
+		</Kuupaevad>
+		<Sihtkoht>
+			<Riik>Azerbaijan</Riik>
+			<Linn>Xankandi</Linn>
+		</Sihtkoht>
+		<Transport>
+			<Lennujaam>Zagreb Airport</Lennujaam>
+		</Transport>
+	</Reis>
+	<Reis reisID="9" Aeg="23:24" Hind="€4370,22">
+		<Kuupaevad>
+			<Alguskuupaev>2024-07-31</Alguskuupaev>
+			<Loppkuupaev>2023-11-21</Loppkuupaev>
+		</Kuupaevad>
+		<Sihtkoht>
+			<Riik>Philippines</Riik>
+			<Linn>Magtangol</Linn>
+		</Sihtkoht>
+		<Transport>
+			<Lennujaam>Tandag Airport</Lennujaam>
+		</Transport>
+	</Reis>
+	<Reis reisID="10" Aeg="11:56" Hind="€3929,74">
+		<Kuupaevad>
+			<Alguskuupaev>2024-08-25</Alguskuupaev>
+			<Loppkuupaev>2023-12-16</Loppkuupaev>
+		</Kuupaevad>
+		<Sihtkoht>
+			<Riik>Brazil</Riik>
+			<Linn>Pontes e Lacerda</Linn>
+		</Sihtkoht>
+		<Transport>
+			<Lennujaam>Southern Wisconsin Regional Airport</Lennujaam>
+		</Transport>
+	</Reis>
+	<Reis reisID="11" Aeg="18:07" Hind="€1998,19">
+		<Kuupaevad>
+			<Alguskuupaev>2024-07-27</Alguskuupaev>
+			<Loppkuupaev>2024-07-12</Loppkuupaev>
+		</Kuupaevad>
+		<Sihtkoht>
+			<Riik>Cuba</Riik>
+			<Linn>Jatibonico</Linn>
+		</Sihtkoht>
+		<Transport>
+			<Lennujaam>Granville Airport</Lennujaam>
+		</Transport>
+	</Reis>
+	<Reis reisID="12" Aeg="23:10" Hind="€9418,41">
+		<Kuupaevad>
+			<Alguskuupaev>2023-10-29</Alguskuupaev>
+			<Loppkuupaev>2023-11-23</Loppkuupaev>
+		</Kuupaevad>
+		<Sihtkoht>
+			<Riik>China</Riik>
+			<Linn>Dikou</Linn>
+		</Sihtkoht>
+		<Transport>
+			<Lennujaam>Eirunepé Airport</Lennujaam>
+		</Transport>
+	</Reis>
+	<Reis reisID="13" Aeg="20:15" Hind="€3609,86">
+		<Kuupaevad>
+			<Alguskuupaev>2024-06-20</Alguskuupaev>
+			<Loppkuupaev>2024-07-18</Loppkuupaev>
+		</Kuupaevad>
+		<Sihtkoht>
+			<Riik>Brazil</Riik>
+			<Linn>Sinop</Linn>
+		</Sihtkoht>
+		<Transport>
+			<Lennujaam>Letterkenny Airport</Lennujaam>
+		</Transport>
+	</Reis>
+	<Reis reisID="14" Aeg="2:57" Hind="€1827,44">
+		<Kuupaevad>
+			<Alguskuupaev>2023-09-22</Alguskuupaev>
+			<Loppkuupaev>2024-01-10</Loppkuupaev>
+		</Kuupaevad>
+		<Sihtkoht>
+			<Riik>Poland</Riik>
+			<Linn>Insko</Linn>
+		</Sihtkoht>
+		<Transport>
+			<Lennujaam>Derby Airport</Lennujaam>
+		</Transport>
+	</Reis>
+	<Reis reisID="15" Aeg="20:29" Hind="€4632,27">
+		<Kuupaevad>
+			<Alguskuupaev>2024-01-29</Alguskuupaev>
+			<Loppkuupaev>2024-04-30</Loppkuupaev>
+		</Kuupaevad>
+		<Sihtkoht>
+			<Riik>China</Riik>
+			<Linn>Rinbung</Linn>
+		</Sihtkoht>
+		<Transport>
+			<Lennujaam>Dhangarhi Airport</Lennujaam>
+		</Transport>
+	</Reis>
+	<Reis reisID="16" Aeg="19:21" Hind="€2172,47">
+		<Kuupaevad>
+			<Alguskuupaev>2024-03-04</Alguskuupaev>
+			<Loppkuupaev>2023-10-16</Loppkuupaev>
+		</Kuupaevad>
+		<Sihtkoht>
+			<Riik>Croatia</Riik>
+			<Linn>Kašina</Linn>
+		</Sihtkoht>
+		<Transport>
+			<Lennujaam>Sesheke Airport</Lennujaam>
+		</Transport>
+	</Reis>
+	<Reis reisID="17" Aeg="9:07" Hind="€7048,32">
+		<Kuupaevad>
+			<Alguskuupaev>2023-10-28</Alguskuupaev>
+			<Loppkuupaev>2024-04-25</Loppkuupaev>
+		</Kuupaevad>
+		<Sihtkoht>
+			<Riik>Indonesia</Riik>
+			<Linn>Taloko</Linn>
+		</Sihtkoht>
+		<Transport>
+			<Lennujaam>Ceres Airport</Lennujaam>
+		</Transport>
+	</Reis>
+	<Reis reisID="18" Aeg="16:44" Hind="€8821,82">
+		<Kuupaevad>
+			<Alguskuupaev>2024-06-30</Alguskuupaev>
+			<Loppkuupaev>2024-03-17</Loppkuupaev>
+		</Kuupaevad>
+		<Sihtkoht>
+			<Riik>China</Riik>
+			<Linn>Wu’an</Linn>
+		</Sihtkoht>
+		<Transport>
+			<Lennujaam>Francisco Beltrão Airport</Lennujaam>
+		</Transport>
+	</Reis>
+	<Reis reisID="19" Aeg="19:28" Hind="€7037,02">
+		<Kuupaevad>
+			<Alguskuupaev>2024-03-24</Alguskuupaev>
+			<Loppkuupaev>2023-09-18</Loppkuupaev>
+		</Kuupaevad>
+		<Sihtkoht>
+			<Riik>China</Riik>
+			<Linn>Daba</Linn>
+		</Sihtkoht>
+		<Transport>
+			<Lennujaam>Tyndall Air Force Base</Lennujaam>
+		</Transport>
+	</Reis>
+	<Reis reisID="21" Aeg="18:42" Hind="€1180,79">
+		<Kuupaevad>
+			<Alguskuupaev>2024-02-26</Alguskuupaev>
+			<Loppkuupaev>2024-05-26</Loppkuupaev>
+		</Kuupaevad>
+		<Sihtkoht>
+			<Riik>Brazil</Riik>
+			<Linn>Rio de Janeiro</Linn>
+		</Sihtkoht>
+		<Transport>
+			<Lennujaam>Lolland Falster Maribo Airport</Lennujaam>
+		</Transport>
+	</Reis>
+	<Reis reisID="22" Aeg="16:06" Hind="€2643,13">
+		<Kuupaevad>
+			<Alguskuupaev>2023-11-23</Alguskuupaev>
+			<Loppkuupaev>2024-05-26</Loppkuupaev>
+		</Kuupaevad>
+		<Sihtkoht>
+			<Riik>Zimbabwe</Riik>
+			<Linn>Chinhoyi</Linn>
+		</Sihtkoht>
+		<Transport>
+			<Lennujaam>Arenal Airport</Lennujaam>
+		</Transport>
+	</Reis>
+	<Reis reisID="23" Aeg="15:43" Hind="€797,27">
+		<Kuupaevad>
+			<Alguskuupaev>2024-02-02</Alguskuupaev>
+			<Loppkuupaev>2024-08-22</Loppkuupaev>
+		</Kuupaevad>
+		<Sihtkoht>
+			<Riik>Poland</Riik>
+			<Linn>Pogorzyce</Linn>
+		</Sihtkoht>
+		<Transport>
+			<Lennujaam>Berlin Regional Airport</Lennujaam>
+		</Transport>
+	</Reis>
+	<Reis reisID="24" Aeg="4:47" Hind="€7926,95">
+		<Kuupaevad>
+			<Alguskuupaev>2024-04-20</Alguskuupaev>
+			<Loppkuupaev>2023-12-04</Loppkuupaev>
+		</Kuupaevad>
+		<Sihtkoht>
+			<Riik>Indonesia</Riik>
+			<Linn>Bulakan</Linn>
+		</Sihtkoht>
+		<Transport>
+			<Lennujaam>Staniel Cay Airport</Lennujaam>
+		</Transport>
+	</Reis>
+	<Reis reisID="25" Aeg="4:16" Hind="€8958,72">
+		<Kuupaevad>
+			<Alguskuupaev>2024-08-22</Alguskuupaev>
+			<Loppkuupaev>2024-09-09</Loppkuupaev>
+		</Kuupaevad>
+		<Sihtkoht>
+			<Riik>France</Riik>
+			<Linn>Oullins</Linn>
+		</Sihtkoht>
+		<Transport>
+			<Lennujaam>LBJ Ranch Airport</Lennujaam>
+		</Transport>
+	</Reis>
+	<Reis reisID="26" Aeg="7:11" Hind="€9648,06">
+		<Kuupaevad>
+			<Alguskuupaev>2024-04-10</Alguskuupaev>
+			<Loppkuupaev>2023-09-12</Loppkuupaev>
+		</Kuupaevad>
+		<Sihtkoht>
+			<Riik>Madagascar</Riik>
+			<Linn>Ambarakaraka</Linn>
+		</Sihtkoht>
+		<Transport>
+			<Lennujaam>Innisfail Airport</Lennujaam>
+		</Transport>
+	</Reis>
+	<Reis reisID="27" Aeg="23:58" Hind="€9192,29">
+		<Kuupaevad>
+			<Alguskuupaev>2023-10-26</Alguskuupaev>
+			<Loppkuupaev>2024-05-08</Loppkuupaev>
+		</Kuupaevad>
+		<Sihtkoht>
+			<Riik>Ukraine</Riik>
+			<Linn>Boromlya</Linn>
+		</Sihtkoht>
+		<Transport>
+			<Lennujaam>Orchid Beach Airport</Lennujaam>
+		</Transport>
+	</Reis>
+	<Reis reisID="28" Aeg="18:48" Hind="€5224,37">
+		<Kuupaevad>
+			<Alguskuupaev>2023-10-15</Alguskuupaev>
+			<Loppkuupaev>2023-12-14</Loppkuupaev>
+		</Kuupaevad>
+		<Sihtkoht>
+			<Riik>Serbia</Riik>
+			<Linn>Sremska Mitrovica</Linn>
+		</Sihtkoht>
+		<Transport>
+			<Lennujaam>Erldunda Airport</Lennujaam>
+		</Transport>
+	</Reis>
+	<Reis reisID="29" Aeg="9:48" Hind="€1452,91">
+		<Kuupaevad>
+			<Alguskuupaev>2024-08-24</Alguskuupaev>
+			<Loppkuupaev>2023-10-20</Loppkuupaev>
+		</Kuupaevad>
+		<Sihtkoht>
+			<Riik>China</Riik>
+			<Linn>Hanting</Linn>
+		</Sihtkoht>
+		<Transport>
+			<Lennujaam>Giyani Airport</Lennujaam>
+		</Transport>
+	</Reis>
+	<Reis reisID="30" Aeg="16:05" Hind="€7173,90">
+		<Kuupaevad>
+			<Alguskuupaev>2023-10-27</Alguskuupaev>
+			<Loppkuupaev>2023-11-30</Loppkuupaev>
+		</Kuupaevad>
+		<Sihtkoht>
+			<Riik>Indonesia</Riik>
+			<Linn>Ciemas</Linn>
+		</Sihtkoht>
+		<Transport>
+			<Lennujaam>Trent Lott International Airport</Lennujaam>
+		</Transport>
+	</Reis>
+</Reisid>
