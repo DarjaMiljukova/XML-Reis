@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<xs:element name="Reisid">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element maxOccurs="unbounded" name="Reis">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="Kuupaevad">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="Alguskuupaev" type="xs:date" />
+										<xs:element name="Loppkuupaev" type="xs:date" />
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+							<xs:element name="Sihtkoht">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="Riik" type="xs:string" />
+										<xs:element name="Linn" type="xs:string" />
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+							<xs:element name="Transport">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="Lennujaam" type="xs:string" />
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+						</xs:sequence>
+						<xs:attribute name="reisID" type="xs:unsignedByte" use="required" />
+						<xs:attribute name="Aeg" type="xs:string" use="required" />
+						<xs:attribute name="Hind" type="xs:unsignedShort" use="required" />
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>
